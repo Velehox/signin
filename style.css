@@ -26,3 +26,8 @@ left: 600px;
 color: white;
 padding: 10px 149px;
 }
+
+p{
+position: relative;
+left: 600px;
+}
