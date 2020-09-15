@@ -1,24 +1,24 @@
 h1 {
-text-align: center;
+    text-align: center;
 }
-
+    
 label{
 position: relative;
 left: 600px;
 }
-
+    
 input{
 position: relative;
 left: 600px;
 padding: 5px 90px;
 }
-
+    
 a{
 position: relative;
 left: 830px;
 color: blue;
 }
-
+    
 button{
 background-color: green;
 position: relative;
